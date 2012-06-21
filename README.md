@@ -16,6 +16,7 @@ Once added you can use the redmond theme importing the css. (in application.css)
 
 ## ToDo
 
+- Add tests.
 - Add support for customization with sass variables.
 - Add support for handle images with compass.
 - Add a rake task to update.
